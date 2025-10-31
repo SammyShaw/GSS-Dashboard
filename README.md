@@ -99,9 +99,9 @@ While the analyses here show Americans’ declining trust in institutions alongs
 
 ## Visualization
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GSS_2_17387981106750/GSSDashboard?:embed=yes&:display_count=yes&:showVizHome=no" width="1100" height="900"></iframe>
+![GSS Dashboard Screenshot](GSSscreenshot.png)
 
-*(Note: automatic scaling in Tableau can distort object sizes when embedded in GitHub Pages. For the most responsive version, visit my [Tableau Public profile](https://public.tableau.com/app/profile/samuel.shaw2748/vizzes):*  
+For the interactive version, visit my [Tableau Public profile](https://public.tableau.com/app/profile/samuel.shaw2748/vizzes):*  
 [**50 Years of the General Social Survey**](https://public.tableau.com/views/GSS_2_17387981106750/GSSDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) *)
 
 
